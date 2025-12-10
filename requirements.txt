@@ -2,3 +2,5 @@ fastapi
 httpx
 uvicorn
 pandas
+seaborn
+matplotlib
