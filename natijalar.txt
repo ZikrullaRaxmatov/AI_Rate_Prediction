@@ -2,5 +2,7 @@
     - Vali MAE: 0.41, RMSE: 0.5117, R2 Score: 1.0000
     - Test MAE: 0.83, RMSE: 1.0604, R2 Score: 1.0000
 
-2. 
+2. Sarima:
+    -
+    - 
 

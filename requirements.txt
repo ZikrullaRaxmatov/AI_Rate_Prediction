@@ -10,3 +10,4 @@ statsmodels
 xgboost
 tensorflow
 darts[u]
+statsmodels
