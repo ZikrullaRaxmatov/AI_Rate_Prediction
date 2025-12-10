@@ -4,3 +4,9 @@ uvicorn
 pandas
 seaborn
 matplotlib
+
+prophet
+statsmodels
+xgboost
+tensorflow
+darts[u]
