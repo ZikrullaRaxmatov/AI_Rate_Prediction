@@ -7,6 +7,5 @@ venv/
 
 
 .vscode/
-
-
+.venv
 .csv
