@@ -4,7 +4,6 @@ __pycache__/
 venv/
 .env/
 *.log
-.vscode
 
 # Dataset files
 *.csv
