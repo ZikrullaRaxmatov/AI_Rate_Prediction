@@ -1,6 +1,6 @@
 # AI Rate Prediction
 
-1) ## Umumiy yondashuv — nima qilasiz (qisqacha)
+## 1) Umumiy yondashuv — nima qilasiz (qisqacha)
 - Markaziy bank API (CBU) dan USD—so‘m kursining arxiv ma’lumotlarini (2018-12-01 dan hozirgi kungacha) yuklab olasiz. 
 - Ma’lumotni tozalaysiz (sanani datetime qilib, yo‘qolgan kunlar/mahalliy bayramlarni tekshirish).
 - EDA (vizualizatsiya): trend, mavsumiylik, o‘zgarishlar (kunlik o‘zgarishlar).
@@ -47,7 +47,7 @@ Amalga oshirish: kunlar bo‘yicha sikl qilib, 2018-12-01 dan hozirgi kungacha A
 
 
 ## 8) Code structure
-Repository tuzilishi misoli:
+Repository tuzilishi misoli: (Har bir fayilda o'zining natijalari bor, ochib ko'rishingiz mumkin)
 
 Ai_rate_prediction/
 - ├─ data/                    # API orqali olingan datalar
