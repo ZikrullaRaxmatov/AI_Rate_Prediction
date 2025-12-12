@@ -75,3 +75,7 @@ Ai_rate_prediction/
 - git clone https://github.com/username/currency-forecast.git
 - python -m venv .venv
 - pip install -r requirements.txt
+
+MIT License
+
+Copyright (c) 2025 Zikrulla Rakhmatov
