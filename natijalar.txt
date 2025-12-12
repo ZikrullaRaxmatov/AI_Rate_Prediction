@@ -1,9 +1,9 @@
 1. Prophet:
-    - Vali MAE: 0.41, RMSE: 0.5117, R2 Score: 1.0000
-    - Test MAE: 0.83, RMSE: 1.0604, R2 Score: 1.0000
+   -Vali MAE: 7.39, RMSE: 9.3798, R2 Score: 0.9966
+    Test MAE: 16.18, RMSE: 21.6833, R2 Score: 0.9962
 
 2. Sarima:
     -
     - 
 
-3. 
+3.  
