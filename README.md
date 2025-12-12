@@ -50,19 +50,19 @@ Amalga oshirish: kunlar bo‘yicha sikl qilib, 2018-12-01 dan hozirgi kungacha A
 Repository tuzilishi misoli:
 
 Ai_rate_prediction/
-├─ data/                    # API orqali olingan datalar
-├─ src/
-│  ├─ fetch_data.py
-│  ├─ feature_ext_eng.ipynb
-│  ├─ preprocess_data.ipynb
-│  ├─ prophet_model.ipynb
-│  ├─ sarima_model.ipynb
-│  ├─ xgboost_model.ipynb
-│  ├─ lstm_model.ipynb
-│  └─ nbeats_model.ipynb
-├─ requirements.txt
-├─ README.md
-└─ LICENSE
+- ├─ data/                    # API orqali olingan datalar
+- ├─ src/
+- │  ├─ fetch_data.py
+- │  ├─ feature_ext_eng.ipynb
+- │  ├─ preprocess_data.ipynb
+- │  ├─ prophet_model.ipynb
+- │  ├─ sarima_model.ipynb
+- │  ├─ xgboost_model.ipynb
+- │  ├─ lstm_model.ipynb
+- │  └─ nbeats_model.ipynb
+- ├─ requirements.txt
+- ├─ README.md
+- └─ LICENSE
 
 12) Texnologiyalar va kutubxonalar (tavsiya)
 - Python 3.10+
